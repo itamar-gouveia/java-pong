@@ -18,7 +18,8 @@
     <li>Java 11</li>
 </ul>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/hVmPgQ-rNJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/hVmPgQ-rNJc)
 
 <h2>📜 Licença</h2>
 Esta API está sobre a licença <a href="https://opensource.org/licenses/MIT">MIT</a>
