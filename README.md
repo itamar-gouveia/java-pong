@@ -21,8 +21,8 @@
 
 [![Watch the video](https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk=w720-h310-rw)](https://www.youtube.com/embed/hVmPgQ-rNJc)
 
-<h2>📜 Licença</h2>
-Esta API está sobre a licença <a href="https://opensource.org/licenses/MIT">MIT</a>
+<h2>📜 Licença</h2> 
+Este projeto está sob a licença <a href="https://opensource.org/licenses/MIT">MIT</a>
 <h2> 🤝 Contribuindo </h2>
 
 Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
