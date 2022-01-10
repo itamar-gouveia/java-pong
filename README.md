@@ -19,7 +19,7 @@
 </ul>
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/hVmPgQ-rNJc)
+[![Watch the video](https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk=w720-h310-rw)](https://www.youtube.com/embed/hVmPgQ-rNJc)
 
 <h2>📜 Licença</h2>
 Esta API está sobre a licença <a href="https://opensource.org/licenses/MIT">MIT</a>
