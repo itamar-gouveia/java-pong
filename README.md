@@ -1,5 +1,5 @@
 <h1>JAVA PONG </h1>
-<p> Sejam bem-vindos ao meu projeto Primeiro game em java do curos da DANKICODE</p>
+<p> Sejam bem-vindos ao meu projeto Primeiro game em java do curso da DANKICODE</p>
 <h2>🎯 Objetivo do Projeto</h2>
 <p>Criar um jogo clássico PONG totalmente em java sem usar nenhuma engine.</p>
 
